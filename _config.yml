@@ -1,0 +1,16 @@
+# Site settings
+title: William Miranda
+description: Jekyll Theme Minimal Resume/Will's portfolio
+baseurl: "will_site" # the subpath of your site, e.g. /blog
+url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: William Miranda
+user_description: I'm a Web Developer, with a creative background in design and audio production. Believer in continuous learning, a tinker on the latest practies and technologies for the web.
+user_title: Web Developer
+email: w.miranda89@gmail.com
+# twitter_username: lorem_ipsum
+# github_username:  lorem_ipsum
+# gplus_username:  lorem_ipsum
+
+exclude: ['package.json', 'src' , 'node_modules']
